@@ -76,3 +76,6 @@ Prepare a summary report highlighting the KPIs and the effectiveness of the syst
 ## Conclusion
 
 This project demonstrates an end-to-end system involving data collection, NLP for sentiment analysis, machine vision for face detection, reinforcement learning for process optimization, KPI calculation, UAT, and reporting using Python.
+
+
+Code to learn, improve and build the best.
